@@ -1,0 +1,18 @@
+.select-gender,
+.birth-date {
+  margin-right: 2.5%;
+}
+.select-gender,
+.birth-date,
+.blood-group {
+  width: 31.25%;
+  padding: 10px 10px;
+  font-size: 1em;
+  color: var(--color-blue);
+  border-radius: 10px;
+  background-color: --color-white;
+  border: none;
+  outline: none;
+  margin-bottom: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
